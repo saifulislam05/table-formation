@@ -9,6 +9,7 @@ This repository contains the HTML code for the Table Formation webpage. The webp
 ### Table Section
 
 A table is used to present data in rows and columns.
+![image](https://github.com/saifulislam05/table-formation/assets/73392705/9a99095c-d4a4-46ad-93fa-790c76936a26)
 
 #### Cars
 
@@ -19,9 +20,11 @@ A table is used to present data in rows and columns.
 - A link is added using `<a>` tags.
 
 #### Watches
+![image](https://github.com/saifulislam05/table-formation/assets/73392705/d2e03980-20b5-40d2-b1a9-5b8dcfc0b876)
 
 - Similar tags are used for the watches section.
 
 #### Shoes
+![image](https://github.com/saifulislam05/table-formation/assets/73392705/07b65e2b-9367-4a73-8a7b-1bef525b8161)
 
 - Similar tags are used for the shoes section.
